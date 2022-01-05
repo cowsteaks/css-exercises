@@ -1,0 +1,19 @@
+.one, .three, .five{
+    background-color: salmon;
+    font-size: small;
+}
+
+#two {
+    font-size: x-large;
+    color: blue;
+}
+
+.three {
+    font-size:large;
+}
+
+#four {
+    font-weight: bold;
+    background-color:springgreen;
+    font-size:medium;
+}
