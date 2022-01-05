@@ -1,4 +1,4 @@
-.one, .three, .five{
+.odd {
     background-color: salmon;
     font-size: small;
 }
@@ -8,7 +8,7 @@
     color: blue;
 }
 
-.three {
+.oddly {
     font-size:large;
 }
 
